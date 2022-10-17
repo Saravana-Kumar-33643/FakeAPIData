@@ -1,14 +1,29 @@
 [
   {
-    "id": 1,
-    "name": "Leanne Graham",
-    "username": "Bret",
-    "email": "Sincere@april.biz",
+    "id": "1",
+    "number": "2",
+    "description": "Randomization Data",
+    "history": {
+      "date": "2020-01-05",
+      "details": "Patient data will be displayed"
+    }
   },
   {
-    "id": 2,
-    "name": "Ervin Howell",
-    "username": "Antonette",
-    "email": "Shanna@melissa.tv",
+    "id": "2",
+    "number": "3",
+    "description": "Unblinding Description",
+    "history": {
+      "date": "2020-01-05",
+      "details": "Patient data will be displayed"
+    }
   },
+  {
+    "id": "3",
+    "number": "5",
+    "description": "Drug Dispensing Data",
+    "history": {
+      "date": "2020-01-05",
+      "details": "Patient data will be displayed"
+    }
+  }
 ]
